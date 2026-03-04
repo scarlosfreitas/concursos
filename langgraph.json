@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        "."
+    ],
+    "graphs": {
+        "extrator": "./src/extractor_ranking/main.py:app"
+    },
+    "env": ".env"
+}
